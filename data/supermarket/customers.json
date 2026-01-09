@@ -1,0 +1,20 @@
+[
+  {
+    "customer_id": "S001",
+    "joined_at": "2022-05-10T00:00:00",
+    "status": "Active",
+    "attributes": { "tier": "Gold" }
+  },
+  {
+    "customer_id": "S002",
+    "joined_at": "2023-01-15T00:00:00",
+    "status": "Active",
+    "attributes": { "tier": "Silver" }
+  },
+  {
+    "customer_id": "S003",
+    "joined_at": "2021-11-01T00:00:00",
+    "status": "Active",
+    "attributes": { "tier": "Gold" }
+  }
+]

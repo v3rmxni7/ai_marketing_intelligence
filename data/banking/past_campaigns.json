@@ -1,0 +1,13 @@
+[
+  {
+    "campaign_id": "BNK01",
+    "segment": "Stable Core Customers",
+    "campaign_type": "Access / Perk",
+    "channel": "Email",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-31",
+    "participation_rate": 0.48,
+    "cost": 12000,
+    "revenue": 96000
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "customer_id": "S001",
+    "timestamp": "2024-12-01T10:00:00",
+    "item_name": "Organic Milk",
+    "category": "Dairy",
+    "amount": 120,
+    "metadata": {}
+  },
+  {
+    "customer_id": "S001",
+    "timestamp": "2024-12-05T10:00:00",
+    "item_name": "Artisan Bread",
+    "category": "Bakery",
+    "amount": 150,
+    "metadata": {}
+  },
+  {
+    "customer_id": "S001",
+    "timestamp": "2025-01-20T10:00:00",
+    "item_name": "Store Brand Milk",
+    "category": "Dairy",
+    "amount": 60,
+    "metadata": {}
+  },
+  {
+    "customer_id": "S001",
+    "timestamp": "2025-01-25T10:00:00",
+    "item_name": "Instant Noodles",
+    "category": "Snacks",
+    "amount": 40,
+    "metadata": {}
+  },
+
+  {
+    "customer_id": "S002",
+    "timestamp": "2025-01-02T11:00:00",
+    "item_name": "Frozen Pizza",
+    "category": "Frozen",
+    "amount": 200,
+    "metadata": {}
+  },
+  {
+    "customer_id": "S002",
+    "timestamp": "2025-01-10T11:00:00",
+    "item_name": "Frozen Pizza",
+    "category": "Frozen",
+    "amount": 200,
+    "metadata": {}
+  },
+  {
+    "customer_id": "S002",
+    "timestamp": "2025-01-18T11:00:00",
+    "item_name": "Frozen Pizza",
+    "category": "Frozen",
+    "amount": 200,
+    "metadata": {}
+  },
+
+  {
+    "customer_id": "S003",
+    "timestamp": "2024-12-03T09:00:00",
+    "item_name": "Organic Vegetables",
+    "category": "Produce",
+    "amount": 300,
+    "metadata": {}
+  },
+  {
+    "customer_id": "S003",
+    "timestamp": "2024-12-10T09:00:00",
+    "item_name": "Organic Fruits",
+    "category": "Produce",
+    "amount": 250,
+    "metadata": {}
+  },
+  {
+    "customer_id": "S003",
+    "timestamp": "2025-01-25T09:00:00",
+    "item_name": "Organic Vegetables",
+    "category": "Produce",
+    "amount": 320,
+    "metadata": {}
+  }
+]

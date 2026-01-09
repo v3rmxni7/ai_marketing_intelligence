@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "B001",
+    "joined_at": "2021-01-01T00:00:00",
+    "status": "Active",
+    "attributes": { "tier": "Gold" }
+  },
+  {
+    "customer_id": "B002",
+    "joined_at": "2023-07-20T00:00:00",
+    "status": "Active",
+    "attributes": { "tier": "Silver" }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "campaign_id": "OIL01",
+    "segment": "Dormant / At-Risk",
+    "campaign_type": "Bonus Points",
+    "channel": "SMS",
+    "start_date": "2024-11-15",
+    "end_date": "2024-11-22",
+    "participation_rate": 0.15,
+    "cost": 5000,
+    "revenue": 18000
+  },
+  {
+    "campaign_id": "OIL02",
+    "segment": "Stable Core Customers",
+    "campaign_type": "Access / Perk",
+    "channel": "Email",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-15",
+    "participation_rate": 0.48,
+    "cost": 9000,
+    "revenue": 36000
+  },
+  {
+    "campaign_id": "OIL03",
+    "segment": "Price-Sensitive Disengagers",
+    "campaign_type": "Extra Points",
+    "channel": "Push",
+    "start_date": "2024-09-05",
+    "end_date": "2024-09-12",
+    "participation_rate": 0.27,
+    "cost": 7000,
+    "revenue": 21000
+  },
+  {
+    "campaign_id": "OIL04",
+    "segment": "Re-Engaging Customers",
+    "campaign_type": "Informational",
+    "channel": "Email",
+    "start_date": "2024-08-10",
+    "end_date": "2024-08-20",
+    "participation_rate": 0.12,
+    "cost": 2000,
+    "revenue": 6000
+  }
+]

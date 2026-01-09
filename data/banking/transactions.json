@@ -1,0 +1,60 @@
+[
+
+  {
+    "customer_id": "B001",
+    "timestamp": "2024-11-01T09:00:00",
+    "item_name": "Credit Card Spend",
+    "category": "Creditbanking",
+    "amount": 5200,
+    "metadata": {}
+  },
+  {
+    "customer_id": "B001",
+    "timestamp": "2024-11-15T09:00:00",
+    "item_name": "Credit Card Spend",
+    "category": "Creditbanking",
+    "amount": 5100,
+    "metadata": {}
+  },
+  {
+    "customer_id": "B001",
+    "timestamp": "2025-01-05T09:00:00",
+    "item_name": "Credit Card Spend",
+    "category": "Creditbanking",
+    "amount": 5300,
+    "metadata": {}
+  },
+  {
+    "customer_id": "B001",
+    "timestamp": "2025-01-20T09:00:00",
+    "item_name": "Credit Card Spend",
+    "category": "Creditbanking",
+    "amount": 5400,
+    "metadata": {}
+  },
+
+  {
+    "customer_id": "B002",
+    "timestamp": "2024-11-10T10:00:00",
+    "item_name": "Debit Card Spend",
+    "category": "Payments",
+    "amount": 800,
+    "metadata": {}
+  },
+  {
+    "customer_id": "B002",
+    "timestamp": "2025-01-10T10:00:00",
+    "item_name": "Debit Card Spend",
+    "category": "Payments",
+    "amount": 2400,
+    "metadata": {}
+  },
+  {
+    "customer_id": "B002",
+    "timestamp": "2025-01-25T10:00:00",
+    "item_name": "Debit Card Spend",
+    "category": "Payments",
+    "amount": 2600,
+    "metadata": {}
+  }
+]

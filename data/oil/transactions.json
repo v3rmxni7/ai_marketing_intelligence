@@ -1,0 +1,101 @@
+[
+  {
+    "customer_id": "O001",
+    "timestamp": "2025-01-01T08:00:00",
+    "item_name": "Premium Petrol",
+    "category": "Fuel",
+    "amount": 2600,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O001",
+    "timestamp": "2025-01-10T08:00:00",
+    "item_name": "Premium Petrol",
+    "category": "Fuel",
+    "amount": 2500,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O001",
+    "timestamp": "2025-01-20T08:00:00",
+    "item_name": "Regular Petrol",
+    "category": "Fuel",
+    "amount": 1800,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O001",
+    "timestamp": "2025-01-28T08:00:00",
+    "item_name": "Regular Petrol",
+    "category": "Fuel",
+    "amount": 1700,
+    "metadata": {}
+  },
+
+  {
+    "customer_id": "O002",
+    "timestamp": "2025-01-03T19:00:00",
+    "item_name": "Premium Petrol",
+    "category": "Fuel",
+    "amount": 2400,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O002",
+    "timestamp": "2025-01-15T19:00:00",
+    "item_name": "Premium Petrol",
+    "category": "Fuel",
+    "amount": 2450,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O002",
+    "timestamp": "2025-01-28T19:00:00",
+    "item_name": "Premium Petrol",
+    "category": "Fuel",
+    "amount": 2500,
+    "metadata": {}
+  },
+
+  {
+    "customer_id": "O003",
+    "timestamp": "2025-01-02T07:30:00",
+    "item_name": "Regular Petrol",
+    "category": "Fuel",
+    "amount": 1600,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O003",
+    "timestamp": "2025-01-06T07:30:00",
+    "item_name": "Regular Petrol",
+    "category": "Fuel",
+    "amount": 1550,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O003",
+    "timestamp": "2025-01-25T07:30:00",
+    "item_name": "Regular Petrol",
+    "category": "Fuel",
+    "amount": 1500,
+    "metadata": {}
+  },
+
+  {
+    "customer_id": "O004",
+    "timestamp": "2025-01-05T11:00:00",
+    "item_name": "Regular Petrol",
+    "category": "Fuel",
+    "amount": 1650,
+    "metadata": {}
+  },
+  {
+    "customer_id": "O004",
+    "timestamp": "2025-01-27T11:00:00",
+    "item_name": "Premium Petrol",
+    "category": "Fuel",
+    "amount": 2550,
+    "metadata": {}
+  }
+]

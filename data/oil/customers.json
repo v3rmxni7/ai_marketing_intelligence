@@ -1,0 +1,38 @@
+[
+  {
+    "customer_id": "O001",
+    "joined_at": "2023-06-01T00:00:00",
+    "status": "Active",
+    "attributes": {
+      "tier": "Gold",
+      "vehicle_type": "SUV"
+    }
+  },
+  {
+    "customer_id": "O002",
+    "joined_at": "2023-11-15T00:00:00",
+    "status": "Active",
+    "attributes": {
+      "tier": "Gold",
+      "vehicle_type": "Sedan"
+    }
+  },
+  {
+    "customer_id": "O003",
+    "joined_at": "2022-08-20T00:00:00",
+    "status": "Active",
+    "attributes": {
+      "tier": "Silver",
+      "vehicle_type": "Hatchback"
+    }
+  },
+  {
+    "customer_id": "O004",
+    "joined_at": "2024-01-05T00:00:00",
+    "status": "Active",
+    "attributes": {
+      "tier": "Bronze",
+      "vehicle_type": "Sedan"
+    }
+  }
+]
